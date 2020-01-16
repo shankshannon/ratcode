@@ -2,7 +2,7 @@
 
 # 怼联
 
-此项目主要参考了两项文档：[https://github.com/microsoft/ai-edu/tree/master/B-教学案例与实践/B13-AI对联生成案例](https://github.com/microsoft/ai-edu/tree/master/B-%E6%95%99%E5%AD%A6%E6%A1%88%E4%BE%8B%E4%B8%8E%E5%AE%9E%E8%B7%B5/B13-AI%E5%AF%B9%E8%81%94%E7%94%9F%E6%88%90%E6%A1%88%E4%BE%8B)和[小程序实现仿微信聊天界面](https://www.jb51.net/article/156415.htm)。
+此项目主要参考了两项文档：[https://github.com/microsoft/ai-edu/tree/master/B-教学案例与实践/B13-AI对联生成案例](https://github.com/microsoft/ai-edu/tree/master/B-%E6%95%99%E5%AD%A6%E6%A1%88%E4%BE%8B%E4%B8%8E%E5%AE%9E%E8%B7%B5/B13-AI%E5%AF%B9%E8%81%94%E7%94%9F%E6%88%90%E6%A1%88%E4%BE%8B)、[wb14123/couplet-dataset: Dataset for couplets. 70万条对联数据库。](https://github.com/wb14123/couplet-dataset)和和[小程序实现仿微信聊天界面](https://www.jb51.net/article/156415.htm)。
 
 更多nlp数据训练的详细内容可以点击[https://github.com/microsoft/ai-edu/tree/master/B-教学案例与实践/B13-AI对联生成案例](https://github.com/microsoft/ai-edu/tree/master/B-%E6%95%99%E5%AD%A6%E6%A1%88%E4%BE%8B%E4%B8%8E%E5%AE%9E%E8%B7%B5/B13-AI%E5%AF%B9%E8%81%94%E7%94%9F%E6%88%90%E6%A1%88%E4%BE%8B)进行了解，这里仅对这个项目进行说明，下面是这个项目的框架：
 
