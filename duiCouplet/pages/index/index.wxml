@@ -1,0 +1,9 @@
+<!--index.wxml-->
+<form bindsubmit="formSubmit">
+  <view class="section_title">请输入上联</view>
+    <input name="enter" placeholder="{{ enter }}" />
+  <view class="btn-area">
+    <button form-type="submit">AI生成下联</button>
+  </view>
+</form>
+<text>{{ output }}</text>
